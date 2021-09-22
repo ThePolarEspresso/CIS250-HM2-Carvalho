@@ -1,2 +1,7 @@
-# CIS250-HM2-Carvalho
-Repository for personal CIS350 assignments.
+# Anna Carvalho
+## Interests
+* bullet 1
+* bullet 2
+* bullet 3
+## Technical Background
+## My Favorite Meme
